@@ -1,3 +1,11 @@
+# Mahitha's First CS193 Homework
+
+- I like that CS193 is a course to introduce us to the tools we can use throughout our time studying and learning CS.
+- It also helps us use these tools in the future when we are in the workforce.
+- It's great that students are the ones leading this course because who else would know which resources are helpful than them.
+- We get to be in contact with upperclassmen.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,7 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Mahitha's First CS193 Homework
 ## Header 2
 ### Header 3
 
